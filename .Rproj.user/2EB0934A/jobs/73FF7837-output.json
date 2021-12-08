@@ -1,0 +1,5 @@
+[1,"=> shiny::runApp()\n\n"]
+[2,"Loading required package: shiny\n\nAttaching package: ‘shinydashboard’\n\nThe following object is masked from ‘package:graphics’:\n\n    box\n\n"]
+[2,"This Font Awesome icon ('dashboard') does not exist:\n* if providing a custom `html_dependency` these `name` checks can \n  be deactivated with `verify_fa = FALSE`\n"]
+[2,"\nListening on http://127.0.0.1:5168\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

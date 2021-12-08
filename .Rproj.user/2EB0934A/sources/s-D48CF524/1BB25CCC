@@ -1,0 +1,26 @@
+{
+    "id": "1BB25CCC",
+    "path": "~/projects/programming/shinydashboard_docker/app/app.R",
+    "project_path": "app/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1638992015531.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "38,1",
+        "scrollLine": "20"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1638992223,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1638992224000,
+    "read_only": false,
+    "read_only_alternatives": []
+}
