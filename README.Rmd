@@ -22,6 +22,7 @@ You may also run it inside a Docker container:
 ```{bash eval=FALSE}
 # In case of permission issues 
 # sudo chmod 666 /var/run/docker.sock
+# docker kill $(docker ps -q)
 docker build -t maxxxy-shinydashboard-image .
 docker run -d --rm -p 8080:8080 maxxxy-shinydashboard-image
 ```
